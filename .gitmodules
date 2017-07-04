@@ -1,0 +1,3 @@
+[submodule "src/Public"]
+	path = src/Public
+	url = https://github.com/aiyongbao/qap_common.git
